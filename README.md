@@ -30,3 +30,9 @@ saved beforehand
 | Flash Screen | Profile page |womansafety Laws|
 |--|--|--|
 |<img width="250" height="400" src="https://raw.githubusercontent.com/debadutta98/WomanSafty/master/Capture_peri4.JPG">|<img width="250" height="400" src="https://raw.githubusercontent.com/debadutta98/WomanSafty/master/Capture_peri5.JPG">|<img width="250" height="400" src="https://raw.githubusercontent.com/debadutta98/WomanSafty/master/Capture3434.JPG">|
+
+<div align="center">
+  
+### Made with ❤❤❤ by [Kalyani samanta](https://github.com/kalyanisamanta) [Akriti singh](https://github.com/akritisingh17) [Debadutta panda](https://github.com/debadutta98)
+  
+</div>
