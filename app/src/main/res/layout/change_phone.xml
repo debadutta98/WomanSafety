@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="361dp"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    app:cardBackgroundColor="@color/white"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="8dp">
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_marginTop="20dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="150dp"
+        android:background="@drawable/ic_phone" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/user_phone"
+        android:background="@drawable/buttonshape"
+        android:layout_height="50dp"
+        android:layout_marginTop="90dp"
+        android:hint="Previous Phone"
+        android:inputType="text"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/user_password"
+        android:background="@drawable/buttonshape"
+        android:layout_height="50dp"
+        android:layout_marginTop="170dp"
+        android:layout_marginBottom="40dp"
+        android:hint="Your Password"
+        android:inputType="text"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/new_phone"
+        android:background="@drawable/buttonshape"
+        android:layout_height="50dp"
+        android:layout_marginTop="250dp"
+        android:layout_marginBottom="40dp"
+        android:hint="New Phone"
+        android:inputType="text"
+        />
+</androidx.cardview.widget.CardView>

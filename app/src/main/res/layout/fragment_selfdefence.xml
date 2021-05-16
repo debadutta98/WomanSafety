@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f2f2f2"
+    android:clickable="true"
+    tools:context=".Selfdefence">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/relativeLayout">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:id="@+id/headline"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:text="8 Self-Defense Moves Every Woman Needs to Know"
+            />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="240dp"
+            android:layout_below="@+id/headline"
+            android:layout_marginTop="13dp"
+            android:id="@+id/laws_image"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/safedefence" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textSize="17dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/laws_image"
+            android:text="Walking home alone and feeling uneasy? Getting a weird vibe from a stranger on the bus? Many of us have been there.
+\n\n
+In a January 2018 survey of 1,000 women nationwide, 81 percent reported experiencing some form of sexual harassment, assault, or both in their lifetime.
+\n\n
+Verbal harassment was the most common form, but 51 percent of women said they were touched or groped in an unwelcome way, while 27 percent of women survived sexual assault.
+\n\n
+Even if you’ve personally never felt yourself in a situation that made you feel physically unsafe, having reassurance about your next steps (and what you can do to help yourself should the unfortunate circumstance ever happen) can make all the difference.
+\n\n
+A study from the University of Oregon found that women who participated in a self-defense class felt they:
+\n\n
+\t\t1\t.\thad better safety strategies in place
+\n\n
+\t\t2\t.\were more equipped to deal with strangers, and people they know, in the context of potential assault or abuse
+\n\n
+\t\t3\t.\had more positive feelings about their bodies
+\n\n
+\t\t4\t.\had increased self-confidence
+Below are our top eight self-defense moves for women — complete with instructions — to help you feel empowered to defend yourself in any situation"
+            />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/relativeLayout1"
+           >
+
+        </RelativeLayout>
+    </RelativeLayout>
+</ScrollView>
+</RelativeLayout>

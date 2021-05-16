@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f2f2f2"
+    android:clickable="true"
+    tools:context=".TipsFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/my_text1"
+            android:textColor="@color/black"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="216dp"
+            android:layout_height="104dp"
+            android:layout_marginLeft="1dp"
+            android:layout_marginTop="50dp"
+            android:src="@drawable/panic1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="170dp"
+            android:text="If close to the attacker, a palm strike can be the best option for inflicting damage and getting away. Strike the assailant’s nose or chin with the heel of your hand. Aim upward so that you’re striking the bottom of his nose or chin. Breaking the nose in this way will be extremely painful for the attacker and will give you plenty of time to escape."
+            android:textSize="15dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="300dp"
+            android:text="@string/my_text2"
+            android:textColor="@color/black"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="216dp"
+            android:layout_height="104dp"
+            android:layout_marginLeft="1dp"
+            android:layout_marginTop="330dp"
+            android:src="@drawable/panic2" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="450dp"
+            android:text="A strike at the groin can end a fight immediately. Stand firm in the direction of the attacker with your dominant leg (the one you’ll use to kick) behind you. Then with all the speed and power, engaging your hip muscles and quads, kick your leg straight out, leaning slightly behind to ensure a balance. If the attacker is closer, you can use your knee to attack the groin."
+            android:textSize="15dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="590dp"
+            android:text="@string/my_text3"
+            android:textColor="@color/black"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="216dp"
+            android:layout_height="104dp"
+            android:layout_marginLeft="1dp"
+            android:layout_marginTop="610dp"
+            android:src="@drawable/panic3" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="710dp"
+            android:text="Retaining a surprise element is key to successfully tackling the attacker with a ringing ear slap! When confronted, open your palms at the side of your waist and distract the offender with a question like ‘What do you want?’ or ‘What did I do?’. Then in a swift move, cup your hand and slam your palms into the opponent’s ears. A well-placed ear slap is sufficient to knock out or disorient the attacker, giving you time to choose between fight or flight."
+            android:textSize="15dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="870dp"
+        android:text="@string/my_text4"
+        android:textColor="@color/black"
+        android:textSize="15dp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:layout_width="216dp"
+        android:layout_height="104dp"
+        android:layout_marginLeft="1dp"
+        android:layout_marginTop="900dp"
+        android:src="@drawable/panic4" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="1020dp"
+        android:text="Retaining a surprise element is key to successfully tackling the attacker with a ringing ear slap! When confronted, open your palms at the side of your waist and distract the offender with a question like ‘What do you want?’ or ‘What did I do?’. Then in a swift move, cup your hand and slam your palms into the opponent’s ears. A well-placed ear slap is sufficient to knock out or disorient the attacker, giving you time to choose between fight or flight."
+        android:textSize="15dp" />
+</RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

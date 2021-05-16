@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/change_phone"
+        android:orderInCategory="1"
+        android:title="Change phone number" />
+    <item android:id="@+id/change_address"
+        android:orderInCategory="2"
+        android:title="Change address"/>
+    <item android:id="@+id/deleteaccount"
+        android:orderInCategory="3"
+        android:title="Delete account"/>
+</menu>
